@@ -54,6 +54,20 @@
       "name": "GLM-4.6",
       "id": "glm-4.6",
       "type": "common"
+    },
+     {
+      "name": "Gemini-3-Pro",
+      "id": "gemini-3-pro-preview",
+      "type": "common",
+      "reasoning": "auto",
+      "provider": "google"
+    },
+    {
+      "name": "Opus 4.5",
+      "id": "claude-opus-4-5-20251101",
+      "type": "anthropic",
+      "reasoning": "auto",
+      "provider": "anthropic"
     }
   ],
   "dev_mode": false,
